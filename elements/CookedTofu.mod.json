@@ -3,16 +3,16 @@
   "_type": "food",
   "definition": {
     "renderType": 0,
-    "texture": "rawtofu",
+    "texture": "cookedtofu",
     "customModelName": "Normal",
-    "name": "Raw Tofu",
+    "name": "Cooked Tofu",
     "creativeTab": {
       "value": "CUSTOM:YokraftFood"
     },
     "stackSize": 16,
-    "nutritionalValue": 1,
-    "saturation": 0.5,
-    "eatingSpeed": 40,
+    "nutritionalValue": 7,
+    "saturation": 3.9999999999999996,
+    "eatingSpeed": 28,
     "forDogs": false,
     "isAlwaysEdible": true,
     "animation": "eat",

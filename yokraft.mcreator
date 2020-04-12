@@ -56,6 +56,22 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "CookedTofu",
+      "type": "food",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CookedTofuRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -64,6 +80,7 @@
     "en_us": {
       "itemGroup.tabyokraftfood": "Yokraft Food",
       "item.yokraft.rawtofu": "Raw Tofu",
+      "item.yokraft.cookedtofu": "Cooked Tofu",
       "item.yokraft.illusivehall": "Illusive Hall Portal Igniter",
       "itemGroup.tabyokraftblock": "Yokraft Blocks",
       "item.yokraft.yasharikussugar": "Yashariku\u0027s Sugar"

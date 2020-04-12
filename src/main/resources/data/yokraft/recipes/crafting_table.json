@@ -1,0 +1,11 @@
+{
+  "group": "yokraft",
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "ingredient": {
+    "item": "yokraft:rawtofu"
+  },
+  "result": {
+    "item": "yokraft:cookedtofu"
+  }
+}

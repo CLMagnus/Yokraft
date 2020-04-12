@@ -12,11 +12,11 @@ import net.mcreator.yokraft.itemgroup.YokraftFoodItemGroup;
 import net.mcreator.yokraft.YokraftElements;
 
 @YokraftElements.ModElement.Tag
-public class RawTofuItem extends YokraftElements.ModElement {
-	@ObjectHolder("yokraft:rawtofu")
+public class CookedTofuItem extends YokraftElements.ModElement {
+	@ObjectHolder("yokraft:cookedtofu")
 	public static final Item block = null;
-	public RawTofuItem(YokraftElements instance) {
-		super(instance, 5);
+	public CookedTofuItem(YokraftElements instance) {
+		super(instance, 7);
 	}
 
 	@Override
@@ -26,13 +26,13 @@ public class RawTofuItem extends YokraftElements.ModElement {
 	public static class FoodItemCustom extends Item {
 		public FoodItemCustom() {
 			super(new Item.Properties().group(YokraftFoodItemGroup.tab).maxStackSize(16)
-					.food((new Food.Builder()).hunger(1).saturation(0.5f).setAlwaysEdible().build()));
-			setRegistryName("rawtofu");
+					.food((new Food.Builder()).hunger(7).saturation(3.9999999999999996f).setAlwaysEdible().build()));
+			setRegistryName("cookedtofu");
 		}
 
 		@Override
 		public int getUseDuration(ItemStack stack) {
-			return 40;
+			return 28;
 		}
 
 		@Override
