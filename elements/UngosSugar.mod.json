@@ -1,0 +1,24 @@
+{
+  "_fv": 6,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "ngos_ugar_1616",
+    "customModelName": "Normal",
+    "name": "Ungo's Sugar",
+    "creativeTab": {
+      "value": "CUSTOM:YokraftFood"
+    },
+    "stackSize": 16,
+    "nutritionalValue": 1,
+    "saturation": 0.5,
+    "eatingSpeed": 20,
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "UngosSugarFoodEaten"
+    }
+  }
+}
