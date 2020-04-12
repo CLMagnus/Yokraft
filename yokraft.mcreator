@@ -26,14 +26,6 @@
       "ids": {}
     },
     {
-      "name": "Yokraft",
-      "type": "tab",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
       "name": "IllusiveHall",
       "type": "dimension",
       "sortid": 3,
@@ -56,16 +48,24 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "YokraftBlock",
+      "type": "tab",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "itemGroup.tabyokraft": "Yokraft Blocks",
       "itemGroup.tabyokraftfood": "Yokraft Food",
       "item.yokraft.rawtofu": "Raw Tofu",
       "item.yokraft.illusivehall": "Illusive Hall Portal Igniter",
+      "itemGroup.tabyokraftblock": "Yokraft Blocks",
       "item.yokraft.yasharikussugar": "Yashariku\u0027s Sugar"
     }
   },

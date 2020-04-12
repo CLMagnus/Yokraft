@@ -11,7 +11,7 @@ import net.minecraft.item.Food;
 import net.minecraft.entity.LivingEntity;
 
 import net.mcreator.yokraft.procedures.YasharikusSugarFoodEatenProcedure;
-import net.mcreator.yokraft.itemgroup.YokraftItemGroup;
+import net.mcreator.yokraft.itemgroup.YokraftFoodItemGroup;
 import net.mcreator.yokraft.YokraftElements;
 
 @YokraftElements.ModElement.Tag
@@ -28,7 +28,7 @@ public class YasharikusSugarItem extends YokraftElements.ModElement {
 	}
 	public static class FoodItemCustom extends Item {
 		public FoodItemCustom() {
-			super(new Item.Properties().group(YokraftItemGroup.tab).maxStackSize(16)
+			super(new Item.Properties().group(YokraftFoodItemGroup.tab).maxStackSize(16)
 					.food((new Food.Builder()).hunger(0).saturation(0.5f).setAlwaysEdible().build()));
 			setRegistryName("yasharikussugar");
 		}

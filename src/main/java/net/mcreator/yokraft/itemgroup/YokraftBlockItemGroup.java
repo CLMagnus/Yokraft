@@ -11,14 +11,14 @@ import net.minecraft.block.Blocks;
 import net.mcreator.yokraft.YokraftElements;
 
 @YokraftElements.ModElement.Tag
-public class YokraftItemGroup extends YokraftElements.ModElement {
-	public YokraftItemGroup(YokraftElements instance) {
-		super(instance, 2);
+public class YokraftBlockItemGroup extends YokraftElements.ModElement {
+	public YokraftBlockItemGroup(YokraftElements instance) {
+		super(instance, 6);
 	}
 
 	@Override
 	public void initElements() {
-		tab = new ItemGroup("tabyokraft") {
+		tab = new ItemGroup("tabyokraftblock") {
 			@OnlyIn(Dist.CLIENT)
 			@Override
 			public ItemStack createIcon() {
@@ -27,9 +27,9 @@ public class YokraftItemGroup extends YokraftElements.ModElement {
 
 			@OnlyIn(Dist.CLIENT)
 			public boolean hasSearchBar() {
-				return true;
+				return false;
 			}
-		}.setBackgroundImageName("item_search.png");
+		};
 	}
 	public static ItemGroup tab;
 }
