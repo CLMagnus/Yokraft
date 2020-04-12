@@ -2,9 +2,9 @@
   "_fv": 6,
   "_type": "tab",
   "definition": {
-    "name": "Yokraft Blocks",
+    "name": "Yokraft Food",
     "icon": {
-      "value": "Blocks.BLACK_GLAZED_TERRACOTTA"
+      "value": "Items.COOKED_CHICKEN"
     },
     "showSearch": true
   }

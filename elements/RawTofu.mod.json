@@ -1,0 +1,21 @@
+{
+  "_fv": 6,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "rawtofu",
+    "customModelName": "Normal",
+    "name": "Raw Tofu",
+    "creativeTab": {
+      "value": "CUSTOM:YokraftFood"
+    },
+    "stackSize": 16,
+    "nutritionalValue": 4,
+    "saturation": 0.3,
+    "eatingSpeed": 40,
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

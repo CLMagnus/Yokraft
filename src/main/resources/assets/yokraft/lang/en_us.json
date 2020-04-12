@@ -1,4 +1,7 @@
 {
-  "itemGroup.tabyokraft": "Yokraft",
+  "itemGroup.tabyokraft": "Yokraft Blocks",
+  "itemGroup.tabyokraftfood": "Yokraft Food",
+  "item.yokraft.rawtofu": "Raw Tofu",
+  "item.yokraft.illusivehall": "Illusive Hall Portal Igniter",
   "item.yokraft.yasharikussugar": "Yashariku\u0027s Sugar"
 }
