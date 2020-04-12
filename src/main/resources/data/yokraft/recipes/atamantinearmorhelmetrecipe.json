@@ -1,0 +1,29 @@
+{
+  "group": "yokraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "yokraft:atamantineingot"
+    },
+    "1": {
+      "item": "yokraft:atamantineingot"
+    },
+    "2": {
+      "item": "yokraft:atamantineingot"
+    },
+    "3": {
+      "item": "yokraft:atamantineingot"
+    },
+    "5": {
+      "item": "yokraft:atamantineingot"
+    }
+  },
+  "result": {
+    "item": "yokraft:atamantinearmorhelmet",
+    "count": 1
+  }
+}

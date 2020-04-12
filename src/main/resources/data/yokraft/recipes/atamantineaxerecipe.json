@@ -1,0 +1,30 @@
+{
+  "group": "yokraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "yokraft:atamantineingot"
+    },
+    "1": {
+      "item": "yokraft:atamantineingot"
+    },
+    "2": {
+      "item": "yokraft:atamantineingot"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "yokraft:atamantineaxe",
+    "count": 1
+  }
+}

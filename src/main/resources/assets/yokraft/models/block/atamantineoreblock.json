@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "yokraft:blocks/atamantine_ore_block",
+    "particle": "yokraft:blocks/atamantine_ore_block"
+  }
+}

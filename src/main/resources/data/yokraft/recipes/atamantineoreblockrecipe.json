@@ -1,0 +1,42 @@
+{
+  "group": "yokraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "yokraft:atamantineingot"
+    },
+    "1": {
+      "item": "yokraft:atamantineingot"
+    },
+    "2": {
+      "item": "yokraft:atamantineingot"
+    },
+    "3": {
+      "item": "yokraft:atamantineingot"
+    },
+    "4": {
+      "item": "yokraft:atamantineingot"
+    },
+    "5": {
+      "item": "yokraft:atamantineingot"
+    },
+    "6": {
+      "item": "yokraft:atamantineingot"
+    },
+    "7": {
+      "item": "yokraft:atamantineingot"
+    },
+    "8": {
+      "item": "yokraft:atamantineingot"
+    }
+  },
+  "result": {
+    "item": "yokraft:atamantineoreblock",
+    "count": 1
+  }
+}

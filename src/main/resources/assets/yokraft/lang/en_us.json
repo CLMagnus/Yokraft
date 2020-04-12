@@ -1,10 +1,22 @@
 {
-  "item.yokraft.yokaibestiary": "Yokai Bestiary",
+  "item.yokraft.atamantinehoe": "Atamantine Hoe",
+  "item.yokraft.atamantineingot": "Atamantine",
   "itemGroup.tabyokraftfood": "Yokraft Food",
   "item.yokraft.rawtofu": "Raw Tofu",
   "item.yokraft.cookedtofu": "Cooked Tofu",
-  "itemGroup.tabyokraftblock": "Yokraft Blocks",
+  "item.yokraft.atamantinesword": "Atamantine Sword",
+  "item.yokraft.atamantineshovel": "Atamantine Shovel",
+  "block.yokraft.atamantineore": "Adamantine Ore",
+  "item.yokraft.atamantinearmorhelmet": "Atamantine Helmet",
   "item.yokraft.soybeans": "Soybeans",
+  "item.yokraft.atamantineaxe": "Atamantine Axe",
+  "item.yokraft.atamantinearmorbody": "Atamantine Chestplate",
+  "block.yokraft.atamantineoreblock": "Block of Adamantine",
+  "item.yokraft.yokaibestiary": "Yokai Bestiary",
+  "item.yokraft.atamantinearmorlegs": "Atamantine Leggings",
+  "itemGroup.tabyokraftblock": "Yokraft Blocks",
   "block.yokraft.soybeanplant": "Soybean Plant",
-  "item.yokraft.yasharikussugar": "Yashariku\u0027s Sugar"
+  "item.yokraft.atamantinearmorboots": "Atamantine Boots",
+  "item.yokraft.yasharikussugar": "Yashariku\u0027s Sugar",
+  "item.yokraft.atamantinepickaxe": "Atamantine Pickaxe"
 }

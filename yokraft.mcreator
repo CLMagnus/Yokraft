@@ -107,20 +107,200 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "AtamantineOre",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AtamantineOreBlock",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AtamantineIngot",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AtamantineOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AtamantineBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AtamantineOreSmelting",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AtamantinePickaxe",
+      "type": "tool",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AtamantineAxe",
+      "type": "tool",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AtamantineSword",
+      "type": "tool",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AtamantineShovel",
+      "type": "tool",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AtamantineHoe",
+      "type": "tool",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AtamantinePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AtamantineAxeRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AtamantineSwordRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AtamantineShovelRecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AtamantineHoeRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AtamantineArmor",
+      "type": "armor",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AtamantineArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AtamantineArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AtamantineArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AtamantineArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.yokraft.yokaibestiary": "Yokai Bestiary",
+      "item.yokraft.atamantinehoe": "Atamantine Hoe",
+      "item.yokraft.atamantineingot": "Atamantine",
       "itemGroup.tabyokraftfood": "Yokraft Food",
       "item.yokraft.rawtofu": "Raw Tofu",
       "item.yokraft.cookedtofu": "Cooked Tofu",
-      "itemGroup.tabyokraftblock": "Yokraft Blocks",
+      "item.yokraft.atamantinesword": "Atamantine Sword",
+      "item.yokraft.atamantineshovel": "Atamantine Shovel",
+      "block.yokraft.atamantineore": "Adamantine Ore",
+      "item.yokraft.atamantinearmorhelmet": "Atamantine Helmet",
       "item.yokraft.soybeans": "Soybeans",
+      "item.yokraft.atamantineaxe": "Atamantine Axe",
+      "item.yokraft.atamantinearmorbody": "Atamantine Chestplate",
+      "block.yokraft.atamantineoreblock": "Block of Adamantine",
+      "item.yokraft.yokaibestiary": "Yokai Bestiary",
+      "item.yokraft.atamantinearmorlegs": "Atamantine Leggings",
+      "itemGroup.tabyokraftblock": "Yokraft Blocks",
       "block.yokraft.soybeanplant": "Soybean Plant",
-      "item.yokraft.yasharikussugar": "Yashariku\u0027s Sugar"
+      "item.yokraft.atamantinearmorboots": "Atamantine Boots",
+      "item.yokraft.yasharikussugar": "Yashariku\u0027s Sugar",
+      "item.yokraft.atamantinepickaxe": "Atamantine Pickaxe"
     }
   },
   "workspaceSettings": {
