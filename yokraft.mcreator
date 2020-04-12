@@ -1,0 +1,61 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "YasharikusSugarFoodEaten",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "YasharikusSugar",
+      "type": "food",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Yokraft",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabyokraft": "Yokraft",
+      "item.yokraft.yasharikussugar": "Yashariku\u0027s Sugar"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "yokraft",
+    "modName": "Yokraft",
+    "version": "1.0.0",
+    "author": "Dyzzy",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.14.4",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}
