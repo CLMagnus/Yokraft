@@ -1,0 +1,16 @@
+{
+  "group": "yokraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "yokraft:soybeans"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    }
+  ],
+  "result": {
+    "item": "yokraft:rawtofu",
+    "count": 1
+  }
+}

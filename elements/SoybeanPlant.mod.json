@@ -1,0 +1,39 @@
+{
+  "_fv": 6,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "soybeanplant1",
+    "customModelName": "Cross model",
+    "plantType": "growapable",
+    "growapableSpawnType": "Crop",
+    "growapableMaxHeight": 3,
+    "name": "Soybean Plant",
+    "creativeTab": {
+      "value": "DECORATIONS"
+    },
+    "hardness": 0.0,
+    "resistance": 0.0,
+    "luminance": 0.0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "CROP"
+    },
+    "customDrop": {
+      "value": "CUSTOM:Soybeans"
+    },
+    "dropAmount": 3,
+    "isReplaceable": false,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "frequencyOnChunks": 20,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": []
+  }
+}

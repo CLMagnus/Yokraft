@@ -1,8 +1,10 @@
 {
+  "item.yokraft.yokaibestiary": "Yokai Bestiary",
   "itemGroup.tabyokraftfood": "Yokraft Food",
   "item.yokraft.rawtofu": "Raw Tofu",
   "item.yokraft.cookedtofu": "Cooked Tofu",
-  "item.yokraft.illusivehall": "Illusive Hall Portal Igniter",
   "itemGroup.tabyokraftblock": "Yokraft Blocks",
+  "item.yokraft.soybeans": "Soybeans",
+  "block.yokraft.soybeanplant": "Soybean Plant",
   "item.yokraft.yasharikussugar": "Yashariku\u0027s Sugar"
 }

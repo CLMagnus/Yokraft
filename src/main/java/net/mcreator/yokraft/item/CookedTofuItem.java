@@ -25,7 +25,7 @@ public class CookedTofuItem extends YokraftElements.ModElement {
 	}
 	public static class FoodItemCustom extends Item {
 		public FoodItemCustom() {
-			super(new Item.Properties().group(YokraftFoodItemGroup.tab).maxStackSize(16)
+			super(new Item.Properties().group(YokraftFoodItemGroup.tab).maxStackSize(64)
 					.food((new Food.Builder()).hunger(7).saturation(3.9999999999999996f).setAlwaysEdible().build()));
 			setRegistryName("cookedtofu");
 		}

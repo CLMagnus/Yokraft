@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "yokraft:blocks/soybeanplant1",
+    "particle": "yokraft:blocks/soybeanplant1"
+  }
+}

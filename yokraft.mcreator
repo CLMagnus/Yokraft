@@ -26,14 +26,6 @@
       "ids": {}
     },
     {
-      "name": "IllusiveHall",
-      "type": "dimension",
-      "sortid": 3,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
       "name": "YokraftFood",
       "type": "tab",
       "sortid": 4,
@@ -72,17 +64,62 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "OpenBestiary",
+      "type": "procedure",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "YokaiBestiary",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Soybeans",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TofuRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SoybeanPlant",
+      "type": "plant",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.yokraft.yokaibestiary": "Yokai Bestiary",
       "itemGroup.tabyokraftfood": "Yokraft Food",
       "item.yokraft.rawtofu": "Raw Tofu",
       "item.yokraft.cookedtofu": "Cooked Tofu",
-      "item.yokraft.illusivehall": "Illusive Hall Portal Igniter",
       "itemGroup.tabyokraftblock": "Yokraft Blocks",
+      "item.yokraft.soybeans": "Soybeans",
+      "block.yokraft.soybeanplant": "Soybean Plant",
       "item.yokraft.yasharikussugar": "Yashariku\u0027s Sugar"
     }
   },
