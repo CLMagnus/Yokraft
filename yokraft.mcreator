@@ -242,7 +242,13 @@
       "sortid": 29,
       "compiles": true,
       "locked_code": false,
-      "ids": {}
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
     },
     {
       "name": "AtamantineArmorHelmetRecipe",

@@ -23,7 +23,7 @@ public class AtamantineHoeItem extends YokraftElements.ModElement {
 	public void initElements() {
 		elements.items.add(() -> new HoeItem(new IItemTier() {
 			public int getMaxUses() {
-				return 250;
+				return 2100;
 			}
 
 			public float getEfficiency() {

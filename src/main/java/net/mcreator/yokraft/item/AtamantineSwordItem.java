@@ -23,7 +23,7 @@ public class AtamantineSwordItem extends YokraftElements.ModElement {
 	public void initElements() {
 		elements.items.add(() -> new SwordItem(new IItemTier() {
 			public int getMaxUses() {
-				return 250;
+				return 2100;
 			}
 
 			public float getEfficiency() {
@@ -31,7 +31,7 @@ public class AtamantineSwordItem extends YokraftElements.ModElement {
 			}
 
 			public float getAttackDamage() {
-				return 0f;
+				return 6f;
 			}
 
 			public int getHarvestLevel() {

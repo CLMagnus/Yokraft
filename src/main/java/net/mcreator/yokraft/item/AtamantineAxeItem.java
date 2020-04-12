@@ -23,7 +23,7 @@ public class AtamantineAxeItem extends YokraftElements.ModElement {
 	public void initElements() {
 		elements.items.add(() -> new AxeItem(new IItemTier() {
 			public int getMaxUses() {
-				return 250;
+				return 2100;
 			}
 
 			public float getEfficiency() {
@@ -31,11 +31,11 @@ public class AtamantineAxeItem extends YokraftElements.ModElement {
 			}
 
 			public float getAttackDamage() {
-				return 0f;
+				return 4f;
 			}
 
 			public int getHarvestLevel() {
-				return 2;
+				return 4;
 			}
 
 			public int getEnchantability() {

@@ -36,11 +36,11 @@ public class AtamantineArmorItem extends YokraftElements.ModElement {
 	public void initElements() {
 		IArmorMaterial armormaterial = new IArmorMaterial() {
 			public int getDurability(EquipmentSlotType slot) {
-				return new int[]{13, 15, 16, 11}[slot.getIndex()] * 15;
+				return new int[]{13, 15, 16, 11}[slot.getIndex()] * 20;
 			}
 
 			public int getDamageReductionAmount(EquipmentSlotType slot) {
-				return new int[]{2, 6, 5, 2}[slot.getIndex()];
+				return new int[]{4, 6, 4, 4}[slot.getIndex()];
 			}
 
 			public int getEnchantability() {
@@ -61,7 +61,7 @@ public class AtamantineArmorItem extends YokraftElements.ModElement {
 			}
 
 			public float getToughness() {
-				return 0f;
+				return 2f;
 			}
 		};
 		elements.items.add(() -> new ArmorItem(armormaterial, EquipmentSlotType.HEAD, new Item.Properties().group(ItemGroup.COMBAT)) {
