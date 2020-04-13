@@ -3,9 +3,9 @@
   "_type": "food",
   "definition": {
     "renderType": 0,
-    "texture": "Gachiin's Sugar",
+    "texture": "kos_ugar",
     "customModelName": "Normal",
-    "name": "Gachiin's Sugar",
+    "name": "Ako's Sugar",
     "creativeTab": {
       "value": "CUSTOM:YokraftFood"
     },
@@ -18,7 +18,7 @@
     "animation": "eat",
     "hasGlow": false,
     "onEaten": {
-      "name": "GachiinsSugarFoodEaten"
+      "name": "AkosSugarFoodEaten"
     }
   }
 }

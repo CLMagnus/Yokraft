@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "yokraft:blocks/sulfureoreblock",
+    "particle": "yokraft:blocks/sulfureoreblock"
+  }
+}

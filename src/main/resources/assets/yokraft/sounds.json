@@ -1,1 +1,11 @@
-{}
+{
+  "openpalm": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "yokraft:pen_alm",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "group": "yokraft",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "ingredient": {
+    "item": "yokraft:sulfurore"
+  },
+  "result": {
+    "item": "yokraft:sulfurdust"
+  }
+}

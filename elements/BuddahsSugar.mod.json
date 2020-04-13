@@ -3,14 +3,14 @@
   "_type": "food",
   "definition": {
     "renderType": 0,
-    "texture": "Gachiin's Sugar",
+    "texture": "uddhas_ugar",
     "customModelName": "Normal",
-    "name": "Gachiin's Sugar",
+    "name": "Buddahs Sugar",
     "creativeTab": {
       "value": "CUSTOM:YokraftFood"
     },
     "stackSize": 16,
-    "nutritionalValue": 1,
+    "nutritionalValue": 2,
     "saturation": 0.5,
     "eatingSpeed": 20,
     "forDogs": false,
@@ -18,7 +18,7 @@
     "animation": "eat",
     "hasGlow": false,
     "onEaten": {
-      "name": "GachiinsSugarFoodEaten"
+      "name": "BuddahsSugarFoodEaten"
     }
   }
 }
