@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "yokraft:block/gakido_portal_ew"
+    },
+    "axis=x": {
+      "model": "yokraft:block/gakido_portal_ns"
+    }
+  }
+}

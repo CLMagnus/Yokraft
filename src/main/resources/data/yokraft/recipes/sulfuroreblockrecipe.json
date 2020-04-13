@@ -1,0 +1,42 @@
+{
+  "group": "yokraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "yokraft:sulfurdust"
+    },
+    "1": {
+      "item": "yokraft:sulfurdust"
+    },
+    "2": {
+      "item": "yokraft:sulfurdust"
+    },
+    "3": {
+      "item": "yokraft:sulfurdust"
+    },
+    "4": {
+      "item": "yokraft:sulfurdust"
+    },
+    "5": {
+      "item": "yokraft:sulfurdust"
+    },
+    "6": {
+      "item": "yokraft:sulfurdust"
+    },
+    "7": {
+      "item": "yokraft:sulfurdust"
+    },
+    "8": {
+      "item": "yokraft:sulfurdust"
+    }
+  },
+  "result": {
+    "item": "yokraft:sulfuroreblock",
+    "count": 1
+  }
+}

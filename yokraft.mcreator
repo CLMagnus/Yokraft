@@ -281,32 +281,270 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "BeadOfDeathAndLife",
+      "type": "item",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Gakido",
+      "type": "dimension",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HelplessWater",
+      "type": "fluid",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "OpenPalm",
+      "type": "musicdisc",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SulfurOre",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SulfurOreBlock",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SulfurDust",
+      "type": "item",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SulfurOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SulfurBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SulfurOreSmelting",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Cherrydimension",
+      "type": "biome",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Cherryblossomleaves",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "UngosugarFoodEaten",
+      "type": "procedure",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ungosugar",
+      "type": "food",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GokanssugarFoodEaten",
+      "type": "procedure",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Gokanssugar",
+      "type": "food",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GachiinsSugarFoodEaten",
+      "type": "procedure",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GachiinsSugar",
+      "type": "food",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AkosSugarFoodEaten",
+      "type": "procedure",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AkosSugar",
+      "type": "food",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BuddahsSugarFoodEaten",
+      "type": "procedure",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BuddahsSugar",
+      "type": "food",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
-  "sound_elements": [],
+  "sound_elements": [
+    {
+      "name": "openpalm",
+      "file": "pen_alm",
+      "category": "music"
+    }
+  ],
   "language_map": {
     "en_us": {
-      "item.yokraft.atamantinehoe": "Atamantine Hoe",
+      "item.yokraft.gokanssugar": "Gokan\u0027s Sugar",
       "item.yokraft.atamantineingot": "Atamantine",
       "itemGroup.tabyokraftfood": "Yokraft Food",
-      "item.yokraft.rawtofu": "Raw Tofu",
-      "item.yokraft.cookedtofu": "Cooked Tofu",
-      "item.yokraft.atamantinesword": "Atamantine Sword",
       "item.yokraft.atamantineshovel": "Atamantine Shovel",
       "block.yokraft.atamantineore": "Adamantine Ore",
-      "item.yokraft.atamantinearmorhelmet": "Atamantine Helmet",
       "item.yokraft.soybeans": "Soybeans",
-      "item.yokraft.atamantineaxe": "Atamantine Axe",
-      "item.yokraft.atamantinearmorbody": "Atamantine Chestplate",
+      "item.yokraft.gakido": "Bead Of Hunger",
+      "item.yokraft.sulfurdust": "Sulfur",
+      "item.yokraft.helplesswater_bucket": "HelplessWater Bucket",
+      "item.yokraft.openpalm.desc": "Open Palm",
       "block.yokraft.atamantineoreblock": "Block of Adamantine",
-      "item.yokraft.yokaibestiary": "Yokai Bestiary",
-      "item.yokraft.atamantinearmorlegs": "Atamantine Leggings",
+      "block.yokraft.cherryblossomleaves": "Cherryblossomleaves",
       "itemGroup.tabyokraftblock": "Yokraft Blocks",
       "block.yokraft.soybeanplant": "Soybean Plant",
       "item.yokraft.atamantinearmorboots": "Atamantine Boots",
       "item.yokraft.yasharikussugar": "Yashariku\u0027s Sugar",
-      "item.yokraft.atamantinepickaxe": "Atamantine Pickaxe"
+      "item.yokraft.openpalm": "Open Palm",
+      "item.yokraft.atamantinepickaxe": "Atamantine Pickaxe",
+      "item.yokraft.akossugar": "Ako\u0027s Sugar",
+      "item.yokraft.atamantinehoe": "Atamantine Hoe",
+      "item.yokraft.beadofdeathandlife": "Bead Of Death And Life",
+      "item.yokraft.buddahssugar": "Buddahs Sugar",
+      "item.yokraft.atamantinesword": "Atamantine Sword",
+      "item.yokraft.cookedtofu": "Cooked Tofu",
+      "item.yokraft.rawtofu": "Raw Tofu",
+      "fluid.helplesswater": "HelplessWater",
+      "item.yokraft.atamantinearmorhelmet": "Atamantine Helmet",
+      "biome.yokraft.cherrydimension": "Cherry",
+      "item.yokraft.atamantineaxe": "Atamantine Axe",
+      "item.yokraft.atamantinearmorbody": "Atamantine Chestplate",
+      "block.yokraft.sulfurore": "Sulfur Ore",
+      "block.yokraft.sulfuroreblock": "Block of Sulfur",
+      "item.yokraft.yokaibestiary": "Yokai Bestiary",
+      "item.yokraft.atamantinearmorlegs": "Atamantine Leggings",
+      "item.yokraft.ungosugar": "Ungo\u0027s Sugar",
+      "item.yokraft.gachiinssugar": "Gachiin\u0027s Sugar"
     }
   },
   "workspaceSettings": {

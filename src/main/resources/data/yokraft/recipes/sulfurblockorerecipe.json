@@ -1,0 +1,13 @@
+{
+  "group": "yokraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "yokraft:sulfuroreblock"
+    }
+  ],
+  "result": {
+    "item": "yokraft:sulfurdust",
+    "count": 9
+  }
+}

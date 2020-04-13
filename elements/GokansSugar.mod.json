@@ -3,7 +3,7 @@
   "_type": "food",
   "definition": {
     "renderType": 0,
-    "texture": "okans_ugar",
+    "texture": "Gokan's Sugar",
     "customModelName": "Normal",
     "name": "Gokan's Sugar",
     "creativeTab": {
@@ -18,7 +18,7 @@
     "animation": "eat",
     "hasGlow": false,
     "onEaten": {
-      "name": "GokansSugarFoodEaten"
+      "name": "GokanssugarFoodEaten"
     }
   }
 }

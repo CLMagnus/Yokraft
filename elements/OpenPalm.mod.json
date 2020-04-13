@@ -1,0 +1,17 @@
+{
+  "_fv": 6,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "openpalm",
+    "name": "Open Palm",
+    "description": "Open Palm",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:openpalm"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}
