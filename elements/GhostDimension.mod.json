@@ -1,0 +1,59 @@
+{
+  "_fv": 6,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "CUSTOM:AtamantineOreBlock"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 0.0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Ghost Dimension Portal Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:YokraftMisc"
+    },
+    "texture": "bead1",
+    "portalTexture": "helplesswater",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:GhostBiome"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.OBSIDIAN"
+    },
+    "secondaryFillerBlock": {
+      "value": "Blocks.OBSIDIAN"
+    },
+    "tertiaryFillerBlock": {
+      "value": "Blocks.OBSIDIAN"
+    },
+    "fluidBlock": {
+      "value": "Blocks.WATER"
+    },
+    "airColor": {
+      "value": -16777216,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": true,
+    "hasWeather": false,
+    "isDark": false,
+    "doesWaterVaporize": true,
+    "sleepResult": "DENY",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "dimensionMusic": {
+      "value": "CUSTOM:spiritsofthedarkland"
+    },
+    "onPlayerEntersDimension": {
+      "name": "GhostDimensionPlayerEntersDimension"
+    }
+  }
+}

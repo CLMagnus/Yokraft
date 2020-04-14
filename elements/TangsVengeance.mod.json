@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "tangsvengeance",
+    "customModelName": "Normal",
+    "name": "Tangs Vengeance",
+    "creativeTab": {
+      "value": "CUSTOM:YokraftTools"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 2,
+    "efficiency": 4.0,
+    "attackSpeed": 1.7,
+    "enchantability": 2,
+    "damageVsEntity": 7.199999999999999,
+    "usageCount": 700,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

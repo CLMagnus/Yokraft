@@ -1,0 +1,68 @@
+{
+  "_fv": 6,
+  "_type": "biome",
+  "definition": {
+    "name": "Ghost Biome",
+    "groundBlock": {
+      "value": "Blocks.MYCELIUM"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.COBBLESTONE"
+    },
+    "generateLakes": false,
+    "treeType": 1,
+    "vanillaTreeType": "Default",
+    "minHeight": 20,
+    "spawnVines": false,
+    "treeVines": {
+      "value": "Blocks.VINE"
+    },
+    "treeStem": {
+      "value": "Blocks.LOG2#1"
+    },
+    "treeBranch": {
+      "value": "CUSTOM:Deadleaves"
+    },
+    "treeFruits": {
+      "value": "Blocks.RED_FLOWER#1"
+    },
+    "customColors": true,
+    "airColor": {
+      "value": -13421773,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -16777216,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -10066330,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 5,
+    "grassPerChunk": 8,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "deadBushesPerChunk": 0,
+    "rainingPossibility": 0.0,
+    "temperature": 0.0,
+    "baseHeight": 0.1,
+    "heightVariation": 0.2,
+    "spawnBiome": false,
+    "biomeWeight": 10,
+    "biomeType": "WARM",
+    "biomeCategory": "NETHER",
+    "parent": {
+      "value": "the_end"
+    },
+    "biomeDictionaryTypes": [
+      "VOID"
+    ],
+    "spawnList": []
+  }
+}

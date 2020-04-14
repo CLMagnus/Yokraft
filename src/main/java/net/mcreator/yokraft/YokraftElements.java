@@ -49,6 +49,8 @@ public class YokraftElements {
 	public static Map<ResourceLocation, net.minecraft.util.SoundEvent> sounds = new HashMap<>();
 	public YokraftElements() {
 		sounds.put(new ResourceLocation("yokraft", "openpalm"), new net.minecraft.util.SoundEvent(new ResourceLocation("yokraft", "openpalm")));
+		sounds.put(new ResourceLocation("yokraft", "spiritsofthedarkland"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("yokraft", "spiritsofthedarkland")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("yokraft").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();

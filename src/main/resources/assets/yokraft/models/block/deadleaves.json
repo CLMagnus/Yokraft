@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "yokraft:blocks/deadleaves",
+    "particle": "yokraft:blocks/deadleaves"
+  }
+}

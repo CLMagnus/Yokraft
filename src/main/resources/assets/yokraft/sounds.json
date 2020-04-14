@@ -7,5 +7,14 @@
         "stream": true
       }
     ]
+  },
+  "spiritsofthedarkland": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "yokraft:pirits_of_the_dark_and",
+        "stream": false
+      }
+    ]
   }
 }

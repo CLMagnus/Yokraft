@@ -4,7 +4,7 @@
   "definition": {
     "name": "Yokraft Food",
     "icon": {
-      "value": "Items.COOKED_CHICKEN"
+      "value": "CUSTOM:YasharikusSugar"
     },
     "showSearch": true
   }

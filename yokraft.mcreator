@@ -313,6 +313,106 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "YokraftMisc",
+      "type": "tab",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GhostDimension",
+      "type": "dimension",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GhostBiome",
+      "type": "biome",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Ghosts",
+      "type": "mob",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GhostDimensionPlayerEntersDimension",
+      "type": "procedure",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Deadleaves",
+      "type": "block",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TangsVengeance",
+      "type": "tool",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "YokraftTools",
+      "type": "tab",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "WoodDagger",
+      "type": "tool",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "StoneDagger",
+      "type": "tool",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -321,24 +421,34 @@
       "name": "openpalm",
       "file": "pen_alm",
       "category": "music"
+    },
+    {
+      "name": "spiritsofthedarkland",
+      "file": "pirits_of_the_dark_and",
+      "category": "ambient"
     }
   ],
   "language_map": {
     "en_us": {
       "item.yokraft.atamantineingot": "Atamantine",
-      "item.yokraft.atamantineshovel": "Atamantine Shovel",
+      "itemGroup.tabyokrafttools": "Yokraft Tools",
       "itemGroup.tabyokraftfood": "Yokraft Food",
+      "item.yokraft.atamantineshovel": "Atamantine Shovel",
       "block.yokraft.atamantineore": "Adamantine Ore",
       "item.yokraft.soybeans": "Soybeans",
+      "biome.yokraft.ghostbiome": "Ghost Biome",
       "item.yokraft.gakido": "Bead Of Hunger",
       "item.yokraft.helplesswater_bucket": "HelplessWater Bucket",
       "item.yokraft.openpalm.desc": "Open Palm",
+      "item.yokraft.ghostdimension": "Ghost Dimension Portal Igniter",
       "block.yokraft.atamantineoreblock": "Block of Adamantine",
       "itemGroup.tabyokraftblock": "Yokraft Blocks",
       "block.yokraft.soybeanplant": "Soybean Plant",
       "item.yokraft.atamantinearmorboots": "Atamantine Boots",
       "item.yokraft.yasharikussugar": "Yashariku\u0027s Sugar",
       "item.yokraft.openpalm": "Open Palm",
+      "item.yokraft.tangsvengeance": "Tangs Vengeance",
+      "block.yokraft.deadleaves": "Dead Leaves",
       "item.yokraft.atamantinepickaxe": "Atamantine Pickaxe",
       "item.yokraft.atamantinehoe": "Atamantine Hoe",
       "item.yokraft.beadofdeathandlife": "Bead Of Death And Life",
@@ -347,10 +457,15 @@
       "item.yokraft.rawtofu": "Raw Tofu",
       "fluid.helplesswater": "HelplessWater",
       "item.yokraft.atamantinearmorhelmet": "Atamantine Helmet",
+      "item.yokraft.stonedagger": "Stone Dagger",
+      "item.yokraft.ghosts": "Ghost Spawn Egg",
+      "itemGroup.tabyokraftmisc": "Yokraft Misc",
       "item.yokraft.atamantineaxe": "Atamantine Axe",
       "item.yokraft.atamantinearmorbody": "Atamantine Chestplate",
       "item.yokraft.yokaibestiary": "Yokai Bestiary",
-      "item.yokraft.atamantinearmorlegs": "Atamantine Leggings"
+      "item.yokraft.atamantinearmorlegs": "Atamantine Leggings",
+      "item.yokraft.wooddagger": "Wood Dagger",
+      "entity.yokraft.ghosts": "Ghost"
     }
   },
   "workspaceSettings": {
